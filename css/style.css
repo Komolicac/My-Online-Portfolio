@@ -79,17 +79,6 @@ header nav .branding{
 }
 
 
-.btn-primary a{
-    text-decoration: none;
-    color:black;
-}
-
-.btn-primary a:hover{
-    text-decoration: none;
-    color:white;
-}
-
-
 
 .btn-secondary{
     background-color:turquoise;
@@ -99,15 +88,6 @@ header nav .branding{
 .btn-secondary:hover{
     background:transparent;
     border-color:white;
-    color:white;
-}
-
-.btn-secondary a{
-    text-decoration: none;
-    color:black;
-}
-.btn-secondary a:hover{
-    text-decoration: none;
     color:white;
 }
 
