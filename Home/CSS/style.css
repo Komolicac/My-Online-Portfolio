@@ -1,0 +1,53 @@
+#main-header{
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding:10px;
+    font-size:1.5em;
+    text-shadow:3px 3px 1px rgb(212, 247, 13), 0 0 5px rgb(120, 161, 6); 
+}
+
+h3{
+ text-align:center; 
+ background-color:black;
+ color:white;
+}
+p{
+text-align:center; 
+}
+.container{
+    background-color: rgb(29, 30, 31);
+    color:rgb(43, 190, 248);
+    padding:20px;
+    height:2000px;
+    margin:1.5px;
+}
+.image{
+    padding:20px;
+    margin:1.7; 
+}
+.container-1{
+    background-color: rgb(29, 30, 31);
+    color:rgb(43, 190, 248);
+    padding:20px;
+    height:2800px;
+    margin:1.5px;
+}
+.container-2{
+    background-color: rgb(29, 30, 31);
+    color:rgb(43, 190, 248);
+    padding:20px;
+    height:2300px;
+    margin:1.5px;
+}
+.container-3{
+    background-color: rgb(29, 30, 31);
+    color:rgb(43, 190, 248);
+    padding:20px;
+    height:1500px;
+    margin:1.5px;
+}
+#main-footer{
+    text-align:center;
+    font-size:18px;
+}
