@@ -332,16 +332,23 @@ h4{
 }
 .fix-me{
 	position:fixed;
-    top:50%;
+    top:55%;
     box-sizing:border-box; 
 }
 
 .fix-me{
     /* color:transparent; */
     background:transparent;
-    border-color:white;
-    color:white;
+    border-color:rgb(4, 213, 241);
+    color:rgb(250, 160, 187);
     text-decoration:none;
+    text-shadow:3px 3px 1px rgb(33, 47, 243);
+    font-size:1.3em;
+     
+}
+.fix-me a{
+    font-weight:2em;
+    
 }
 
 .footer{
