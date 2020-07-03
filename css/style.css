@@ -352,21 +352,38 @@ h4{
 }
 
 .footer{
-    background-color:rgb(85, 84, 84);
+    background-color:rgb(5, 5, 5);
     height:300px;
     padding-top:3.5%; 
     text-align: center;
 }
-.footer-icon{
-    padding-top:2.5%;
+.image-container img{
+    background: rgb(252, 248, 248);
+    
 }
 
+.image-container img:hover{
+    background:rgb(4, 213, 241);
 }
+
+
+.image-container a{
+    align-items:center;
+    justify-content:center;
+    
+} 
+
+.image-container img {
+    border-radius:50%;
+}
+
+
+
 @media screen and (max-width:700px){
 .container{
     max-width:540px;
 }
-}
+
 @media(min-width:992px){
     .container{
         max-width:960px;
